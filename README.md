@@ -87,9 +87,43 @@ if [ -z "$PS1" ]; then
 fi
 ```
 
+CTRL X Y enter. kaydet çık.
+
+
+
 
 ```
 source ~/.bashrc
 ```
+
+
+# Son Adımda local hatsaı alanlar için.
+
+
+![Ekran görüntüsü 2025-04-19 215324](https://github.com/user-attachments/assets/d70656fa-48c7-42f9-b77a-716a454c3e8f)
+
+
+
+size attığım ssdeki kısmın başına # koyun arkadaşlar.
+open http://localhost:3000 başına # koyun.
+
+
+![Ekran görüntüsü 2025-04-19 215246](https://github.com/user-attachments/assets/5bfa864d-cddb-49b1-80e0-c14c53107eb5)
+
+
+
+```
+cd
+```
+
+
+```
+sudo nano /rl-swarm/run_rl_swarm.sh
+```
+
+
+CTRL X Y enter kaydedin
+
+
 
 Ardından Tekrar çalıştırmayı deneyin.
